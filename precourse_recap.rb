@@ -20,6 +20,6 @@ my_hash = {"first_name" => "Mairi",
 }
 
 # Loop
-list.each do |item|
+for item in list
   puts item
 end
